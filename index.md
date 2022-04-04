@@ -14,7 +14,7 @@ In this short course, you will learn the following:
 
 - Laptop or computer powerful enough to run Visual Studio Code, and then some.
 - Internet connection, of course.
-- GitHub account. Its free! Here's a link to [GitHub](https://www.github.com) to create one *.
+- GitHub account. Its free! Here's a link to [GitHub](https://www.github.com) to create one (optional).
 - Python. Download the latest version [HERE](https://www.python.org/downloads/)
 - Visual Studio Code. Download the latest version [HERE](https://code.visualstudio.com/Download)
 - The will to spend extra time and effort to learn
