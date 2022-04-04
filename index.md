@@ -44,7 +44,7 @@ In this short course, you will learn the following:
 
 ## Setting up your dev environment.
 
-We will be using virtual environment in Python.  The instruction to setup your working dev environment is discussed in this [LINK](/dev_env_setup.md)
+We will be using virtual environment in Python.  The instruction to setup your working dev environment is discussed in this [LINK](/learning-basic-python-and-flask/dev_env_setup.md)
 
 
 <hr/>
