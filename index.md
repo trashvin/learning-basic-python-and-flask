@@ -44,7 +44,7 @@ In this short course, you will learn the following:
 
 ## Setting up your dev environment.
 
-We will be using virtual environment in Python.  The instruction to setup your working dev environment is discussed in this [LINK](https://github.com/trashvin/python-gamedev-2021/blob/main/lesson/how-to.md)
+We will be using virtual environment in Python.  The instruction to setup your working dev environment is discussed in this [LINK](/dev_env_setup.md)
 
 
 <hr/>
