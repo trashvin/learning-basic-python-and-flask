@@ -27,18 +27,14 @@ In this short course, you will learn the following:
 - #### Day 1 : Introduction to Python, Visual Studio Code, and GitHub.
   
   An introductiion to the Python programming language, virtual environments, the Visual Studio Code editor and GitHub.
+
+  [github 101](/learning-basic-python-and-flask/02_git_and_github.md) | [intro to python](/learning-basic-python-and-flask/03_basic_python)
   
 - #### Day 2 : Web App 1
-
-  Quick discussion on the basic operations, conditional statements, loop statements, list, methods and OOP in Python.
   
 - #### Day 3 : Web App 2
-
-  An introduction on the basics of PyGame and how to get started. Also, in this section, you will learn other tools you can use to begin your game creation journey.
   
-- #### Day 4 : Web App 3
-
-  Learn the basics of moving objects on the game screen as well as handling inputs from the user via the mouse and the keyboard.
+- #### Day 4 : Deploying Python Web Apps
 
 <hr/>
 
