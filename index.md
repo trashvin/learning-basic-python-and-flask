@@ -1,10 +1,24 @@
 ## Create Simple Web Apps Using Python and Flask
 
-You can use the [editor on GitHub](https://github.com/trashvin/learning-basic-python-and-flask/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Skill up by learning the basic of Python programming language and create simple web application using the Flask framework.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this short course, you will learn the following:
+- Basic Python using VSCode
+- Introduction to Flask
+- Introduction to GitHub
+- Hosting Python web apps in the cloud
 
-### Markdown
+<hr/>
+
+### Must Haves
+
+- Laptop or computer powerful enough to run Visual Studio Code, and then some.
+- Internet connection, of course.
+- GitHub account. Its free! Here's a link to [GitHub](https://www.github.com) to create one *.
+- Python. Download the latest version [HERE](https://www.python.org/downloads/)
+- Visual Studio Code. Dowload the latest version [HERE](https://code.visualstudio.com/Download)
+- The will to spend extra time and effort to learn
+- Programming knowledge ? Zero :) Yes!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
