@@ -20,32 +20,34 @@ In this short course, you will learn the following:
 - The will to spend extra time and effort to learn
 - Programming knowledge ? Zero :) Yes!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<hr/>
 
-```markdown
-Syntax highlighted code block
+### Lessons and Schedules
 
-# Header 1
-## Header 2
-### Header 3
+- #### Day 1 : Introduction to Python, Visual Studio Code, and GitHub.
+  
+  An introductiion to the Python programming language, virtual environments, the Visual Studio Code editor and GitHub.
+  
+- #### Day 2 : Web App 1
 
-- Bulleted
-- List
+  Quick discussion on the basic operations, conditional statements, loop statements, list, methods and OOP in Python.
+  
+- #### Day 3 : Web App 2
 
-1. Numbered
-2. List
+  An introduction on the basics of PyGame and how to get started. Also, in this section, you will learn other tools you can use to begin your game creation journey.
+  
+- #### Day 4 : Web App 3
 
-**Bold** and _Italic_ and `Code` text
+  Learn the basics of moving objects on the game screen as well as handling inputs from the user via the mouse and the keyboard.
 
-[Link](url) and ![Image](src)
-```
+<hr/>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Setting up your dev environment.
 
-### Jekyll Themes
+We will be using virtual environment in Python.  The instruction to setup your working dev environment is discussed in this [LINK](https://github.com/trashvin/python-gamedev-2021/blob/main/lesson/how-to.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trashvin/learning-basic-python-and-flask/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<hr/>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+Follow me on <img title="a title" alt="twitter" src="https://i.imgur.com/JLLlB5S.png"> : [@m3lles](https://twitter.com/m3lles)
