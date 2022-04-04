@@ -27,11 +27,6 @@ In this short course, you will learn the following:
 - #### Day 1 : Introduction to Python, Visual Studio Code, and GitHub.
   
   An introductiion to the Python programming language, virtual environments, the Visual Studio Code editor and GitHub.
-
-  -- [github 101](/learning-basic-python-and-flask/02_git_and_github)
-  
-  -- [intro to python](/learning-basic-python-and-flask/03_basic_python)
-  
   
 - #### Day 2 : Web App 1
   
