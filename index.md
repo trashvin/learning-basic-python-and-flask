@@ -38,12 +38,18 @@ In this short course, you will learn the following:
 
 ### Sessions
 
-- #### Setting up your dev environment.
-
-We will be using virtual environment in Python.  The instruction to setup your working dev environment is discussed in this [LINK](/learning-basic-python-and-flask/01_dev_env_setup)
+- #### [Setting up your dev environment](/learning-basic-python-and-flask/01_dev_env_setup)
 
 - #### [Introduction to Git and GitHub](/learning-basic-python-and-flask/02_git_and_github)
 
 - #### [Basic Python](/learning-basic-python-and-flask/03_basic_python)
+
+- #### [Web App 1]()
+
+- #### [Web App 2]()
+
+- #### [Deploying Python Flask Apllication to the Cloud]()
+
+<hr/>
 
 Follow me on <img title="a title" alt="twitter" src="https://i.imgur.com/JLLlB5S.png"> : [@m3lles](https://twitter.com/m3lles)
