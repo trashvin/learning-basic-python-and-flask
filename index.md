@@ -16,7 +16,7 @@ In this short course, you will learn the following:
 - Internet connection, of course.
 - GitHub account. Its free! Here's a link to [GitHub](https://www.github.com) to create one *.
 - Python. Download the latest version [HERE](https://www.python.org/downloads/)
-- Visual Studio Code. Dowload the latest version [HERE](https://code.visualstudio.com/Download)
+- Visual Studio Code. Download the latest version [HERE](https://code.visualstudio.com/Download)
 - The will to spend extra time and effort to learn
 - Programming knowledge ? Zero :) Yes!
 
