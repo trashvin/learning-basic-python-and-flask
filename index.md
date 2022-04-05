@@ -61,4 +61,6 @@ In this short course, you will learn the following:
 Follow me on <img title="a title" alt="twitter" src="https://i.imgur.com/JLLlB5S.png"> : [@m3lles](https://twitter.com/m3lles)
 
 <hr/>
-[Begin](/learning-basic-python-and-flask/01_dev_env_setup)
+<div style="text-align: right"> [Begin](/learning-basic-python-and-flask/01_dev_env_setup)
+</div>
+
