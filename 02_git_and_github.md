@@ -2,6 +2,8 @@
 
 ### introduction
 
+![git and github](https://i.imgur.com/G3ow8WV.jpg)
+
 Git is an open-source version control system that was started by Linus Torvalds—the same person who created Linux. Git is similar to other version control systems—Subversion, CVS, and Mercurial to name a few.
 
 A repository (usually abbreviated to “repo”) is a location where all the files for a particular project are stored. Each project has its own repo, and you can access it with a unique URL.
