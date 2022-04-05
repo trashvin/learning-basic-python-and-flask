@@ -1,6 +1,6 @@
-## getting started with git and github
+## Getting Started with Git and GitHub
 
-### introduction
+### What is Git? What is GitHub
 
 ![git and github](https://i.imgur.com/G3ow8WV.jpg)
 
@@ -12,13 +12,13 @@ GitHub is a web-based version-control and collaboration platform for software de
 
 _GitHub can be thought of as a serious social networking site for software developers. Members can follow each other, rate each other's work, receive updates for specific projects and communicate publicly or privately._
 
-### git basics
+### Basic Git Commands
 
-- #### forking a repo
+- #### Forking a repo
 
 A fork is a copy of a repository. Forking a repository allows to freely experiment with changes without affecting the original project.
 
-- #### cloning a repo
+- #### Cloning a repo
 
 Cloning is a process of creating an identical copy of a Git Remote Repository to the local machine.
 
@@ -26,7 +26,7 @@ Cloning is a process of creating an identical copy of a Git Remote Repository to
 git clone https://github.com/trashvin/python-gamedev-2021.git
 ```
 
-- ####  working with codes
+- ####  Working with codes
 
 adding codes to the repo
 
@@ -51,7 +51,7 @@ pulling changes
 ```
 git pull
 ```
-- #### misc commands
+- #### Miscellaneous commands
 ```
 git config --global user.name "Your Name"
 git config --global user.email "youremail@yourdomain.com"
