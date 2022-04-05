@@ -58,4 +58,7 @@ git pull
 git config --global user.name "Your Name"
 git config --global user.email "youremail@yourdomain.com"
 ```
-
+<hr/>
+<div style="text-align: right"> 
+<a href='https://trashvin.github.io/learning-basic-python-and-flask/'>Previous</a> | <a href = '/learning-basic-python-and-flask/02_git_and_github'>Next</a>
+</div>
