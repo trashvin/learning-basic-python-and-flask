@@ -1,4 +1,4 @@
-## Getting Started with Git and GitHub
+## Getting started with Git and GitHub
 
 ### What is Git? What is GitHub
 
@@ -11,6 +11,8 @@ A repository (usually abbreviated to “repo”) is a location where all the fil
 GitHub is a web-based version-control and collaboration platform for software developers. Microsoft, the biggest single contributor to GitHub, initiated an acquisition of GitHub for $7.5 billion in June, 2018.
 
 _GitHub can be thought of as a serious social networking site for software developers. Members can follow each other, rate each other's work, receive updates for specific projects and communicate publicly or privately._
+
+<hr/>
 
 ### Basic Git Commands
 

@@ -1,6 +1,6 @@
-## how to setup your development environment
+## How to setup your development environment
 
-### install pip 
+### Install pip
 
 Pip is a python package manager. You will use this to install new packages needed by your project.
 
@@ -19,7 +19,7 @@ python get-pip.py
 pip --version
 ```
 
-### install virtualenv
+### Install virtualenv
 
 Virtualenv will let you create a sandbox for your project. This is important especially if we want to make sure that we have an environment that was created only for the project. Also, this keeps your parent OS clean from unwanted python packages.
 
@@ -37,7 +37,7 @@ pip install virtualenv
 virtualenv --version
 ```
 
-### create a virtualenv in windows
+### Create a virtualenv in windows
 
 Note: do this inside you project directory. All packages installed while the virtualenv is active will only be available inside that environment.
 
@@ -53,7 +53,7 @@ virtualenv .venv
 
 # after running the command above, you will notice your virtualenv name preppended in your prompt
 
-# to deactivate
+# to deactivate (may not always work, you can simply close the prompt)
 
 .venv\Scripts\deactivate
 ```

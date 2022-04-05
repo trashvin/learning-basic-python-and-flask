@@ -1,6 +1,6 @@
-## intro to python
+## Review of basic Python
 
-### basic data types
+### Basic data types
 
 ```
 # to determine the type of the variable, use type(..)
@@ -45,8 +45,8 @@ type(res)
 # will print str
 ```
 
-### comparison and logic operators
-#### comparison operators
+### Comparison and logic operators
+#### Comparison operators
 
 ```
 # == checks for equality
@@ -68,7 +68,7 @@ res = 2 <= 2
 res = 5 != 6
 ```
 
-#### logical operators
+#### Logical operators
 ```
 # and
 res = True and True
@@ -80,7 +80,7 @@ res = True or False
 res = not True
 ```
 
-### conditional if statements
+### Conditional if statements
 
 ```
 # syntax
@@ -101,9 +101,9 @@ else:
     <action>
 ```
 
-### loops
+### Loops
 
-#### while loops
+#### While loops
 
 ```
 # syntax
@@ -121,7 +121,7 @@ while counter < 10:
     counter +=1
 ```
 
-#### for loops
+#### For loops
 ```
 # syntax
 
@@ -146,7 +146,7 @@ for value in readings:
 
 ```
 
-### functions
+### Functions
 
 a function is a block of code which only runs when it is called. you can pass data, known as parameters, into a function. a function can return data as a result.
 
@@ -195,7 +195,7 @@ def add_integer( num_1 : int , num_2 : int) -> int:
 
 ```
 
-### list
+### List
 
 lists are used to store multiple items in a single variable.
 
@@ -254,7 +254,7 @@ this_list = ["apple", "banana", "cherry"]
 this_list.pop()
 ```
 
-### reading assignment
+### Other reading topics
 - list comprehension
 - dictionary
 - tuples
