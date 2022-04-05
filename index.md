@@ -18,7 +18,7 @@ In this short course, you will learn the following:
 - Python. Download the latest version [HERE](https://www.python.org/downloads/)
 - Visual Studio Code. Download the latest version [HERE](https://code.visualstudio.com/Download)
 - The will to spend extra time and effort to learn
-- Programming knowledge ? Zero :) Yes!
+- It is recommended that participants take time to read and learn basi Python at [HERE](https://radarfop.net/py4e/)
 
 <hr/>
 
@@ -28,7 +28,7 @@ In this short course, you will learn the following:
   
   An introductiion to the Python programming language, virtual environments, the Visual Studio Code editor and GitHub.
   
-- #### Day 2 : Web App 1
+- #### Day 2 : Introduction to Flask and Web App 1
   
 - #### Day 3 : Web App 2
   
@@ -42,7 +42,13 @@ In this short course, you will learn the following:
 
 - #### [Introduction to Git and GitHub](/learning-basic-python-and-flask/02_git_and_github)
 
-- #### [Basic Python](/learning-basic-python-and-flask/03_basic_python)
+- #### [Why Python?]()
+
+- #### [Basic Python Review](/learning-basic-python-and-flask/03_basic_python)
+
+- #### [What are Web Applications?]()
+
+- #### [Introduction to Flask]()
 
 - #### [Web App 1]()
 
