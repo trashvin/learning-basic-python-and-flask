@@ -6,6 +6,10 @@ A web application is a computer program that utilizes web browsers and web techn
 
 ### What is Flask?
 
+
+![flask logo](https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png)
+
+
 Flask is a Python web micro-framework built with a small core and easy-to-extend philosophy. Flask is considered more Pythonic than the Django web framework because in common situations the equivalent Flask web application is more explicit. Flask is also easy to get started with as a beginner because there is little boilerplate code for getting a simple app up and running. The “micro” in micro-framework means Flask aims to keep the core simple but extensible.
 
 The complete Flask documentation can be found [HERE](https://flask.palletsprojects.com/en/2.1.x/).
