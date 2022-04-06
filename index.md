@@ -22,7 +22,7 @@ In this short course, you will learn the following:
 
 <hr/>
 
-### Lessons and Schedules
+### Schedules
 
 - #### Day 1 : Introduction to Python, Visual Studio Code, and GitHub.
   
@@ -36,17 +36,11 @@ In this short course, you will learn the following:
 
 <hr/>
 
-### Sessions
+### Topics
 
-- #### [Setting up your dev environment](/learning-basic-python-and-flask/01_dev_env_setup)
+- #### [Why Python?](/learning-basic-python-and-flask/lesson_01_why_python)
 
-- #### [Introduction to Git and GitHub](/learning-basic-python-and-flask/02_git_and_github)
-
-- #### [Why Python?]()
-
-- #### [Basic Python Review](/learning-basic-python-and-flask/03_basic_python)
-
-- #### [What are Web Applications?]()
+- #### [Review of Basic Python](/learning-basic-python-and-flask/lesson_02_basic_python)
 
 - #### [Introduction to Flask]()
 
@@ -54,7 +48,21 @@ In this short course, you will learn the following:
 
 - #### [Web App 2]()
 
+- #### [Web App 3]()
+
+- #### [Web App 4]()
+
 - #### [Deploying Python Flask Apllication to the Cloud]()
+
+<hr/>
+
+### Developer Guides
+
+- #### [Setting up your dev environment](/learning-basic-python-and-flask/guide_01_dev_env_setup)
+
+- #### [Debugging Python in Visual Studio Code](/learning-basic-python-and-flask/guide_02_debugging_python_vscode)
+
+- #### [Getting Started with Git and GitHub](/learning-basic-python-and-flask/02_git_and_github)
 
 <hr/>
 
