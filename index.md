@@ -42,17 +42,19 @@ In this short course, you will learn the following:
 
 - #### [Review of Basic Python](/learning-basic-python-and-flask/lesson_02_basic_python)
 
-- #### [Introduction to Flask]()
+- #### [Introduction to Flask](/learning-basic-python-and-flask/lesson_03_intro_to_flask)
 
-- #### [Web App 1]()
+- #### [Web App 1](/learning-basic-python-and-flask/lesson_04_web_app1)
 
-- #### [Web App 2]()
+- #### [Web App 2](/learning-basic-python-and-flask/lesson_05_web_app2)
 
-- #### [Web App 3]()
+- #### [Web App 3](/learning-basic-python-and-flask/lesson_06_web_app3)
 
-- #### [Web App 4]()
+- #### [Web App 4](/learning-basic-python-and-flask/lesson_07_web_app4)
 
-- #### [Deploying Python Flask Apllication to the Cloud]()
+- #### [Deploying Flask applications](/learning-basic-python-and-flask//learning-basic-python-and-flask/lesson_09_notes_and_references)
+
+- #### [Notes and References](/learning-basic-python-and-flask/lesson_09_notes_and_references)
 
 <hr/>
 
