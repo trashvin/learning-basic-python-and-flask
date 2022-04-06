@@ -62,7 +62,7 @@ In this short course, you will learn the following:
 
 - #### [Debugging Python in Visual Studio Code](/learning-basic-python-and-flask/guide_02_debugging_python_vscode)
 
-- #### [Getting Started with Git and GitHub](/learning-basic-python-and-flask/02_git_and_github)
+- #### [Getting Started with Git and GitHub](/learning-basic-python-and-flask/guide_03_git_and_github)
 
 <hr/>
 

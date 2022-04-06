@@ -1,6 +1,4 @@
-## Lesson 01 : Why Python?
-
-
+## Lesson 08 : Deploying Flask applications
 
 
 

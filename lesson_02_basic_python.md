@@ -1,4 +1,4 @@
-## Review of basic Python
+## Lesson 02 : Review of basic Python
 
 ### Basic data types
 
@@ -261,7 +261,7 @@ this_list.pop()
 
 <hr/>
 <div style="text-align: right"> 
-<a href='https://trashvin.github.io/learning-basic-python-and-flask/'>Previous</a> | <a href = '/learning-basic-python-and-flask/02_git_and_github'>Next</a>
+<a href='https://trashvin.github.io/learning-basic-python-and-flask/'>Previous</a> | <a href = '/learning-basic-python-and-flask/guide_02_debugging_python_vscode'>Next</a>
 </div>
 
 

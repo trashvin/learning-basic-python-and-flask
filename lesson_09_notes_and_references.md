@@ -1,6 +1,4 @@
-## Lesson 01 : Why Python?
-
-
+## Lesson 09 : Notes and References
 
 
 
