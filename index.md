@@ -28,11 +28,17 @@ In this short course, you will learn the following:
   
   An introductiion to the Python programming language, virtual environments, the Visual Studio Code editor and GitHub.
   
-- #### Day 2 : Introduction to Flask and Web App 1
+- #### Day 2 : Introduction to Flask and Web App Creation
+
+  An introduction to Flask. Discussion on creating Web App 1 and 2.
   
-- #### Day 3 : Web App 2
+- #### Day 3 : Web App Creation
+
+  Discussion on creating Web App 1 and 2.
   
-- #### Day 4 : Deploying Python Web Apps
+- #### Day 4 : Deploying Python Web Apps, notes and references
+
+  Topics on deploying Flask application on the cloud. Tips and references.
 
 <hr/>
 
