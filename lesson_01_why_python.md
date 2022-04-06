@@ -30,7 +30,7 @@ More information can be obtained from the [official site](https://www.python.org
 
 - Automation
 
-* these reasons were taken from [THIS SITE](https://www.upgrad.com/blog/reasons-why-python-popular-with-developers/).
+Note : these reasons were taken from [THIS SITE](https://www.upgrad.com/blog/reasons-why-python-popular-with-developers/).
 
 <hr/>
 <div style="text-align: right"> 

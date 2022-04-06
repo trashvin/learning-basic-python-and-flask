@@ -1,5 +1,13 @@
 ## Lesson 02 : Review of basic Python
 
+### Development environment
+
+- Python 3.9+
+- Visual Studio Code
+
+Reference : [How to setup your development environment](https://trashvin.github.io/learning-basic-python-and-flask/guide_01_dev_env_setup)
+
+
 ### Basic data types
 
 ```
@@ -261,7 +269,7 @@ this_list.pop()
 
 <hr/>
 <div style="text-align: right"> 
-<a href='https://trashvin.github.io/learning-basic-python-and-flask/'>Previous</a> | <a href = '/learning-basic-python-and-flask/guide_02_debugging_python_vscode'>Next</a>
+<a href='https://trashvin.github.io/learning-basic-python-and-flask/lesson_01_why_python'>Previous</a> | <a href = '/learning-basic-python-and-flask/lesson_03_intro_to_flask'>Next</a>
 </div>
 
 
