@@ -23,5 +23,5 @@ Flask depends on the Jinja template engine and the Werkzeug WSGI toolkit. The do
 
 <hr/>
 <div style="text-align: right"> 
-<a href='/learning-basic-python-and-flask/lesson_02_basic_python'>Home</a> | <a href = '/learning-basic-python-and-flask/lesson_04_web_app1'>Next</a>
+<a href='/learning-basic-python-and-flask/lesson_02_basic_python'>Previous</a> | <a href = '/learning-basic-python-and-flask/lesson_04_web_app1'>Next</a>
 </div>
