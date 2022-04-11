@@ -131,6 +131,7 @@ dmypy.json
 
 # projects to exclude
 web_app_01/profile_page_app/
+web_app_02/spock_app
 web_app_03/bmi_calculator_app/
 web_app_03/weather_app/
 web_app_04/bakit_list_app/
