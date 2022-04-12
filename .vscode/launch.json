@@ -37,6 +37,23 @@
             ],
             "jinja": true,
             "justMyCode": true
+        },
+        {
+            "name": "debug healthy_app",
+            "type": "python",
+            "request": "launch",
+            "module": "flask",
+            "cwd": "${workspaceFolder}/web_app_03/bmi_calculator_app",
+            "env": {
+                "FLASK_APP": "app.py",
+                "FLASK_ENV": "development"
+            },
+            "args": [
+                "run",
+                "--no-debugger"
+            ],
+            "jinja": true,
+            "justMyCode": true
         }
     ]
 }
