@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(234, 240, 241);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 100vh;
+    background-color: #f1f1f1;
+  }
+
+  div {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+
+  .profileImage{
+    text-align: center;
+  }
