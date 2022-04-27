@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" 
+        rel="stylesheet" 
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" 
+        crossorigin="anonymous">
+    <title>Spock App</title>
+</head>
+<body>
+    <div class="container-fluid p-4">
+        <div class="h-100 p-5 text-white bg-dark rounded-3">
+            <div class="container-fluid py-5">
+              <h1 class="display-5 fw-bold">Rock, Paper, Scissors, Lizard, Spock Game</h1>
+              <p class="col-md-8 fs-4">The game is an expansion on the game Rock, Paper, Scissors. Each player picks a variable and reveals it at the same time. The winner is the one who defeats the others. In a tie, the process is repeated until a winner is found.</p>
+            </div>
+            <div class="row bg-light p-4 text-dark">
+                <div class="col-md-12">
+                    <form role="form" method="POST" action="/">
+                        <div class="form-group py-2">    
+                            <label for="player">Select your player :</label>
+                            <select class="form-control" id="player" name="player">
+                                <option>Rock</option>
+                                <option>Paper</option>
+                                <option>Scissor</option>
+                                <option>Lizard</option>
+                                <option>Spock</option>
+                            </select>  
+                        </div>
+                        <button type="submit" class="btn btn-primary">
+                            Submit
+                        </button>
+                    </form>
+                </div>
+            </div>
+            <div class="row py-3 text-center">
+                {% if winner %}
+                    <h2>
+                        {% print("Player chooses {}".format(player)) %}
+                    </h2>
+                    <h2>
+                        {% print("Computer chooses {}".format(computer)) %}
+                    </h2>
+                    <hr/>
+                    <h2>
+                        {% print("Game winner : {}".format(winner)) %}
+                    </h2>
+                {% endif %}
+            </div>
+            <div class="row">
+                <p class="col-md-12 fs-4">Rules:</p>
+                <p class="col-md-12 fs-4 bg-light text-dark p-3">
+                    Scissors cuts Paper, 
+                    Paper covers Rock, 
+                    Rock crushes Lizard,
+                    Lizard poisons Spock,
+                    Spock smashes Scissors,
+                    Scissors decapitates Lizard,
+                    Lizard eats Paper,
+                    Paper disproves Spock,
+                    Spock vaporizes Rock,
+                    (and as it always has) Rock crushes Scissors
+                </p>
+            </div>
+          </div>
+        
+    </div>
+</body>
+</html>

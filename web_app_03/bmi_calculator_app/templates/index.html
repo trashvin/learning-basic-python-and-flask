@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+{% block main %}
+<div class="container-fluid p-4">
+    <div class="h-100 p-5 text-white bg-dark rounded-3">
+        <div class="container-fluid py-5">
+          <h1 class="display-5 fw-bold">Healthy ka ba?</h1>
+          <a href="/help">What is BMI?</a>
+        </div>
+        <div class="row">
+            <div class="col-md-8">
+                <form role="form" method="POST" action="/">
+                    <div class="form-group py-2">    
+                        <div class="input-group mb-3">
+                            <span class="input-group-text" id="weight_desc">Weight</span>
+                            <input type="text" class="form-control" placeholder="enter weight in kilograms" aria-label="weight" 
+                                    aria-describedby="weight" id="weight" name="weight">
+                            <span class="input-group-text" id="weight_measurement">Kilograms</span>
+                        </div>
+                        <div class="input-group mb-3">
+                            <span class="input-group-text" id="height_desc">Height</span>
+                            <input type="text" class="form-control" placeholder="enter height in centimeters" aria-label="height" 
+                                    aria-describedby="height" id="height" name="height">
+                            <span class="input-group-text" id="height_measurement">Centimeter</span>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary">
+                        Submit
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+    {% if bmi.bmi > 0 %}
+        <div class="row py-4 text-center">
+            <h1>Your result:</h1>
+            <h1 style="font-size:100px">{{ bmi.bmi }}</h1>
+            <h2>
+                {% print("You are {}".format(bmi.rating_description)) %}
+            </h2>
+        </div>
+    {% endif %}
+</div>
+{% endblock %}
