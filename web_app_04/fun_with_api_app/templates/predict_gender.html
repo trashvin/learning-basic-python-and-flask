@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+{% block main %}
+<div class="container-fluid">
+    <div class="h-100 p-2 m-2 text-white bg-dark rounded-3">
+        <div class="container-fluid py-3">
+          <h1 class="display-5 fw-bold">Gender reveal na yarn!</h1>
+          <p>Etong app na ito ay ginagamitan ng free API mula sa <a href="https://genderize.io/">Genderize.io</a></p>
+        </div>
+    </div>
+    <div class="row bg-light p-4 text-dark">
+        <div class="col-md-12">
+            <form role="form" method="POST" action="/genderReveal">
+                <div class="form-group py-2">    
+                    <div class="input-group mb-3">
+                        <span class="input-group-text" id="name_desc">Enter a name </span>
+                        <input type="text" class="form-control" placeholder="name" aria-label="name" 
+                                aria-describedby="name" id="name" name="name">
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-primary">
+                    Submit
+                </button>
+            </form>
+        </div>
+    </div>
+    {% if prediction.probability > 0 %}
+        <div class="row p-4 text-center">
+            <h2>
+                {% print("{} is {} with {}% probability".format(prediction.name,prediction.gender,prediction.probability)) %}
+            </h2>
+        </div>
+    {% endif %}
+
+    
+</div>
+{% endblock %}

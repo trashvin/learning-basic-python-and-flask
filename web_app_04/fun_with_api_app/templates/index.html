@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+{% block main %}
+<div class="container-fluid">
+    <div class="h-100 p-2 m-2 text-white bg-dark rounded-3">
+        <div class="container-fluid py-3">
+          <h1 class="display-5 fw-bold">Anong meron?</h1>
+          <p>Ikaw ba ay nalulungkot o di kaya ay nababato? 
+             Walang magawa at nakatunganga lamang sa tabi at kug ano anong bumabagabag sa pag-iisip. 
+             Huwag nang mangamba, nandito na ang app na tutulong sayo.</p>
+          <p>Sa app na ito, garantisadong masasayang ang oras mo. 
+             Maiinis ka hanggang malimutan mo na ang iyong problema. 
+             Tara, subukan mo ito.</p>
+        </div>
+    </div>
+    <div class="container m-5">
+
+        <!-- Three columns of text below the carousel -->
+        <div class="row">
+          <div class="col-lg-4">
+            <img src="{{url_for('static', filename='images/gender.jpg')}}" alt="Bootstrap" width="140" height="140" class="rounded-circle border border-white">
+            <h2>Gender reveal na yarn!</h2>
+            <p>Subukan nating hulaan ang kasarian ng isang tao sa pamamagitan ng kanyang pangalan.</p>
+            <p><a class="btn btn-secondary" href="/genderReveal">Game na! &raquo;</a></p>
+          </div><!-- /.col-lg-4 -->
+          <div class="col-lg-4">
+            <img src="{{url_for('static', filename='images/human_race.jpg')}}" alt="Bootstrap" width="140" height="140" class="rounded-circle border border-white">
+    
+            <h2>Huwag kang racist!</h2>
+            <p>Ating subukan na hulaan ang nasyonalidad ng isang tao base sa kanyang pangalan.</p>
+            <p><a class="btn btn-secondary" href="/getNationality">Game na! &raquo;</a></p>
+          </div><!-- /.col-lg-4 -->
+          <div class="col-lg-4">
+            <img src="{{url_for('static', filename='images/bored.jpg')}}" alt="Bootstrap" width="140" height="140" class="rounded-circle border border-white">
+    
+            <h2>Bored damn!</h2>
+            <p>Tara, ubusin natin ang oras sa paggawa ng kung ano anong bagay na wala namang katuturan.</p>
+            <p><a class="btn btn-secondary" href="/imBored">Game na! &raquo;</a></p>
+          </div><!-- /.col-lg-4 -->
+        </div><!-- /.row -->
+    </div>
+   
+    
+</div>
+{% endblock %}

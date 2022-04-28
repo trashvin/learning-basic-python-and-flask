@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+{% block main %}
+<div class="container-fluid">
+    <div class="h-100 p-2 m-2 text-white bg-dark rounded-3">
+        <div class="container-fluid py-3">
+          <h1 class="display-5 fw-bold">Bored damn!</h1>
+          <p>Gusto mong sumubok ng isang gawain na hinugot sa kung saan? 
+              Gusto mo bang gumawa ng bagay na kung saan lang napulot? Aba, ano pang ginagawa, pindutin na ang 'Game Na!' button!</p>
+        </div>
+        <hr/>
+        <form role="form" method="POST" action="/imBored">
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary ">
+                    Game Na!
+                </button>
+            </div>
+            
+        </form>
+    </div>
+    <div>
+        {% if task|length > 1 %}
+        <div class="row p-4 text-center">
+            <h2>
+                {% print(task) %}
+            </h2>
+        </div>
+        {% endif %}
+
+    </div>
+   
+</div>
+{% endblock %}
